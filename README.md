@@ -1,3 +1,3 @@
 
-# ![Splash Logo](images/splash.png =70x70) Splash
+# ![Splash Logo](images/icon.png) Splash
 Página HTML para fácil acceso a enlaces para clases y recursos.
